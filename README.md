@@ -83,7 +83,7 @@ The 6 late employees have in total : 600/10000 shares each as 6% of the company
 
 The company did not scale as much as planned but it still working well. All people contributions tend to a more cooperative model where over a long period of time everybody tend to get (almost) their shares accroding to a equal split between employees. It can apear normal that it tends to that number as the work is more split between all the employees and the founders contribution is diluted ovet time in the whole team work.
 
-#### Case 2 : The company goes back to 3 founders
+#### Case 2 : The company goes back to 3 members(2 founders and 1 late employee)
 
 Imagime after year 5 the company has diificulties to continue the business, 1 founder leaves the companu, 2 founders stays and year 5 employee stays in the company 
 
@@ -106,10 +106,41 @@ All other late employees who had accumulated 2% of stock now have a residual sto
 
 #### Case 3 : The company scales to 1000 employees
 
+Let's imagine the company goes from 10 to 1000 employees in 5 years due to exponential growth as is :
 
+Year 5 : 10 employees
+Year 6 : 40 employees
+Yeat 7 : 100 employees
+Year 8 : 200 employees
+Year 9 : 500 employees
+Year 10 : 1000 employees
 
+At the end :
+
+Each founder has 1784/1000 shares as 17,84% of the company
+1st employee in year 4 have 484/10000 as 4,84% of the company
+Employees in year 5 have  171/10000 as 1,71% of the company
+Employees in year 6 have  46/10000 as 0,46% of the company
+Employees in year 7 have  15/10000 as 0,15% of the company
+Employees in year 8 have  5/10000 as 0,05% of the company
+Employees in year 9 have  1/10000 as 0,01% of the company
+Employees in year 10 have  0.25/10000 as 0,0025% of the company
+
+If the company is growing fast it had probably a huge valuation and this model enables a fait repartition based on the efforts of each in the past. Il we imagine tha the company worth 1B dollars for 1,000 employees (classic 1 employee = 1 million)
+
+- the 1st employee will have $48,4M worth of stock
+- the 10th employee will have $17,1M worth of stock
+- the 40th employee will have $4,6M worth of stock
+- the 100th employee will have $1,5M worth of stock
+- the 200th employee will have $500,000 wortt of stock
+- the 500th employee will have $100,000 worth of stock
+- the 1000th employee will have $25,000 worth of stock
+
+We can consider than it is a fairer value repartition based on value creation and timing based on risk pf the model that comparable startup or cooperative models.
 
 ### The impact of the flowing ratio
+
+### Vesting
 
 
 ### Expected behavior 
@@ -117,6 +148,7 @@ All other late employees who had accumulated 2% of stock now have a residual sto
 - Easier to attract talents, that is the only thing hard to scale 
 - more involvement from workers to the company missiom
 - more loyalty to the company over time, even after leaving
+- less nogociation into shareholders agreement (stock,vesting, good leaver/bad leaver etc) 
 
 ### Philosophy
 
@@ -129,6 +161,17 @@ All other late employees who had accumulated 2% of stock now have a residual sto
 - There is no good leaver of bad leavers, just leavers.
 
 ### limitations
+
+
+
+
+
+
+
+
+
+
+
 
 
 
