@@ -53,7 +53,84 @@ Here are flowing organizations, a new employee/founder model based on planned eq
 
 ### Principle : Flowing Organizations
 
-The principle is the following :  every year, the company create shares that are splitted amongst the all the people working in the organization at that time in a equal part. 
+The principles are the following : 
+
+- every year, the company create shares that are splitted amongst the all the people working in the organization at that time in a equal part. Founders and employees counts for the same.
+- You need at least 12 months in the company to get your first 12 months of equity
+- If you leave, you keep your shares that will be diluted over the years over time, as you don't create value anymore to the company
+- the dilution ratio over time is core to the company shareholder agreenent and cannot be changed. Workers know exactly what they will get depending on the time they spend in the company.
+
+### Example
+
+You are 3 founders, creating a company with 1000 shares at the start, and an inflation ratio of 1000 shares everyear. 
+
+Year 1-2-3 : You work 2 years alone to build your MVP. After 3 years, there are 3000 shares created and each founder owns 1000/3000 shares, as 33% of the company.
+
+At year 4 : you launch your product and make some money, you hire someone full time, your 1st employee, who will work most of the time hard as much as you to make the company successful. 1000 shares are issued, and are now split between the 4 of you, in 250 shares for each. So each founder has 1250/4000 shares as , and the 1st employee (or the 3rd founder :) ) has 250/4000 shares, as 6,66%.
+
+At year 5 : the product is going well, 6 new hires join the company full time. 1000 shares are issued, now split in 10 people, as 1000 share each.
+Now each founder has in total 1350/5000 shares as 27% of th company
+The 1st employee has in total  350/5000 shares as 7% of the company
+The 6 late employees  have in total : 100/5000 shares each as 2% of the company
+
+#### Case 1 : The company stagnates for 5 years
+
+After 5 more years of 10 employees and 1000 shares per yer, we obtain
+
+Now each founder has in total 1850/10000 shares as 18,5% of th company
+The 1st employee has in total  850/10000 shares as 8,5% of the company
+The 6 late employees have in total : 600/10000 shares each as 6% of the company
+
+The company did not scale as much as planned but it still working well. All people contributions tend to a more cooperative model where over a long period of time everybody tend to get (almost) their shares accroding to a equal split between employees. It can apear normal that it tends to that number as the work is more split between all the employees and the founders contribution is diluted ovet time in the whole team work.
+
+#### Case 2 : The company goes back to 3 founders
+
+Imagime after year 5 the company has diificulties to continue the business, 1 founder leaves the companu, 2 founders stays and year 5 employee stays in the company 
+
+At year 6, 1 founder, the 1st employee and 5 out of all the late employees are leaving due to financial issues.
+From year 6 to year 10, 1000 shares will be issued every year to the team working on the project, split in equal shares of 333 shares per year
+
+So at the end we will have : 
+
+The 2 early founders who stayed who will have a total of  3015/10000 shares as 30,15% each
+The founder who has left in year 5 will keep his shares of 1350 but diluted to the 10000 shares so 1350/10000 as 13,5%
+The 1st employee has in total  350/10000 shares as 3,5% of the company
+The late employee who is still working will have 1666/10000 as 16,6%
+The 6 late employees have in total : 100/10000 shares each as 1% of the company
+
+The 2 staying founders are rewarded for the continuous work they have brought at early and late stage with 30,15% of the company.
+The leaving founderin year 6  is rewared by its early work ad diluted over time because of his inactivity inside the company, going from 18,5 to 13,5% of the company.
+The 1st employee who left in year 6, has still some value for its work during the year 4 and year 5 and still owns 3,5% (from the 8,5 %)
+The late employee who stayed from year 6 to year 10 now has 16,66% of the company, acting like a founder and rewarded so. (from 2% previously)
+All other late employees who had accumulated 2% of stock now have a residual stock of 1%.
+
+#### Case 3 : The company scales to 1000 employees
+
+
+
+
+### The impact of the flowing ratio
+
+
+### Expected behavior 
+
+- Easier to attract talents, that is the only thing hard to scale 
+- more involvement from workers to the company missiom
+- more loyalty to the company over time, even after leaving
+
+### Philosophy
+
+- Value is created by the whole organization (as the people in it), from the assistant to the CEO
+- All employees are links of the value chain of the company in a symbiotic manner
+- Employees are (late) founders too 
+- Rewards to the one who works to create the value in the company
+- There is more incentive to work in a company where the rewards are shared more equitably
+- the feel of appartenance is higher when things are transparent and I have a voice
+- There is no good leaver of bad leavers, just leavers.
+
+### limitations
+
+
 
 
 
