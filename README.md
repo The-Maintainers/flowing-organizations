@@ -92,11 +92,11 @@ From year 6 to year 10, 1000 shares will be issued every year to the team workin
 
 So at the end we will have : 
 
-The 2 early founders who stayed who will have a total of  3015/10000 shares as 30,15% each
-The founder who has left in year 5 will keep his shares of 1350 but diluted to the 10000 shares so 1350/10000 as 13,5%
-The 1st employee has in total  350/10000 shares as 3,5% of the company
-The late employee who is still working will have 1666/10000 as 16,6%
-The 6 late employees have in total : 100/10000 shares each as 1% of the company
+- The 2 early founders who stayed who will have a total of  3015/10000 shares as 30,15% each
+- The founder who has left in year 5 will keep his shares of 1350 but diluted to the 10000 shares so 1350/10000 as 13,5%
+- The 1st employee has in total  350/10000 shares as 3,5% of the company
+- The late employee who is still working will have 1666/10000 as 16,6%
+- The 6 late employees have in total : 100/10000 shares each as 1% of the company
 
 The 2 staying founders are rewarded for the continuous work they have brought at early and late stage with 30,15% of the company.
 The leaving founderin year 6  is rewared by its early work ad diluted over time because of his inactivity inside the company, going from 18,5 to 13,5% of the company.
@@ -108,23 +108,23 @@ All other late employees who had accumulated 2% of stock now have a residual sto
 
 Let's imagine the company goes from 10 to 1000 employees in 5 years due to exponential growth as is :
 
-Year 5 : 10 employees
-Year 6 : 40 employees
-Yeat 7 : 100 employees
-Year 8 : 200 employees
-Year 9 : 500 employees
-Year 10 : 1000 employees
+- Year 5 : 10 employees
+- Year 6 : 40 employees
+- Year 7 : 100 employees
+- Year 8 : 200 employees
+- Year 9 : 500 employees
+- Year 10 : 1000 employees
 
 At the end :
 
-Each founder has 1784/1000 shares as 17,84% of the company
-1st employee in year 4 have 484/10000 as 4,84% of the company
-Employees in year 5 have  171/10000 as 1,71% of the company
-Employees in year 6 have  46/10000 as 0,46% of the company
-Employees in year 7 have  15/10000 as 0,15% of the company
-Employees in year 8 have  5/10000 as 0,05% of the company
-Employees in year 9 have  1/10000 as 0,01% of the company
-Employees in year 10 have  0.25/10000 as 0,0025% of the company
+- Each founder has 1784/1000 shares as 17,84% of the company
+- 1st employee in year 4 have 484/10000 as 4,84% of the company
+- Employees in year 5 have  171/10000 as 1,71% of the company
+- Employees in year 6 have  46/10000 as 0,46% of the company
+- Employees in year 7 have  15/10000 as 0,15% of the company
+- Employees in year 8 have  5/10000 as 0,05% of the company
+- Employees in year 9 have  1/10000 as 0,01% of the company
+- Employees in year 10 have  0.25/10000 as 0,0025% of the company
 
 If the company is growing fast it had probably a huge valuation and this model enables a fait repartition based on the efforts of each in the past. Il we imagine tha the company worth 1B dollars for 1,000 employees (classic 1 employee = 1 million)
 
