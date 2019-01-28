@@ -123,8 +123,8 @@ At the end :
 - Employees in year 6 have  46/10000 as 0,46% of the company
 - Employees in year 7 have  15/10000 as 0,15% of the company
 - Employees in year 8 have  5/10000 as 0,05% of the company
-- Employees in year 9 have  1/10000 as 0,01% of the company
-- Employees in year 10 have  0.25/10000 as 0,0025% of the company
+- Employees in year 9 have  2/10000 as 0,02% of the company
+- Employees in year 10 have  0.50/10000 as 0,005% of the company
 
 If the company is growing fast it had probably a huge valuation and this model enables a fait repartition based on the efforts of each in the past. Il we imagine tha the company worth 1B dollars for 1,000 employees (classic 1 employee = 1 million)
 
@@ -133,8 +133,8 @@ If the company is growing fast it had probably a huge valuation and this model e
 - the 40th employee will have $4,6M worth of stock
 - the 100th employee will have $1,5M worth of stock
 - the 200th employee will have $500,000 wortt of stock
-- the 500th employee will have $100,000 worth of stock
-- the 1000th employee will have $25,000 worth of stock
+- the 500th employee will have $200,000 worth of stock
+- the 1000th employee will have $50,000 worth of stock
 
 We can consider than it is a fairer value repartition based on value creation and timing based on risk pf the model that comparable startup or cooperative models.
 
