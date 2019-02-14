@@ -185,8 +185,8 @@ Meaning that if for instance the number of equity created at year 1 is X=1000, w
 - Year 1 = 1000 shares
 - Year 2 = 1500 shares
 - Year 3 = 2250 shares
-_ year 4 = 3375 shares
-_ etc...
+- year 4 = 3375 shares
+- etc...
 
 That means that the early founders are less rewarded and more diluted than in the linear model, coming back to a model that looks like more how "cooperative" works.
 A cooperative model would be a flowing ratio of y= infinite 
